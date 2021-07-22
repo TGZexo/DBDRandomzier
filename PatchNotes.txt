@@ -1,0 +1,11 @@
+DBD Random Generators - What's New [0.1.1]
+
+New : 
+	• Added Random Survivor button to the main menu [currently has no function]
+
+Changes :
+	• Increased the speed that the Random Killer Selector selects a Killer
+	• Re-adjusted the GUI for the Random Killer Selector
+	• Re-adjusted the GUI for the Main Menu
+
+Bug Fixes :
